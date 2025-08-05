@@ -7,13 +7,15 @@
 
 ## 💼 Projects I've Worked On
 
+
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **Contoso Sales Analysis** | Analyzed sales & expenses using Power BI dashboards | Power BI |
-| **Retail Strategy (Quantium)** | Delivered insights to improve customer strategy | Excel, Tableau |
-| **TCS Virtual Internship** | Cleaned & visualized online retail data for executives | Power BI |
-| **ML Model - Internship** | Built a basic Machine Learning model in Colab | Python, Pandas |
-
+| **Growify Digital Assignment** | Excel dashboard, Looker Studio visuals & Airtable for task mgmt | Excel, Looker, Airtable |
+| **MIS Reporting Project** | Created Excel-based reports & dashboards for daily business ops | Excel, Charts, Pivot Tables |
+| **Contoso Sales Analysis** | Dashboard analyzing Power BI visuals for sales & expenses | Power BI |
+| **Retail Strategy (Quantium)** | Cleaned, visualized & reported customer trends | Excel, Tableau |
+| **TCS Virtual Internship** | Online retail analysis with visual insights | Power BI |
+| **ML Model - Internship** | Built & tested ML model in Google Colab | Python, Pandas |
 ---
 
 ## 🔧 Skills
